@@ -21,4 +21,4 @@ Compiling assets:
  * `grunt watch` to watch for changes and recompile development files.
  * `grunt watch:prod` to watch for changes and recompile production files.
 
-Using [Grunt](hthttp://gruntjs.com) to manage frontend tasks, with [SCSS](http://sass-lang.com/) and [Browserify](http://browserify.org/) as precompilers.
+Using [Grunt](http://gruntjs.com) to manage frontend tasks, with [SCSS](http://sass-lang.com/) and [Browserify](http://browserify.org/) as precompilers.
